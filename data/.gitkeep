@@ -1,0 +1,3 @@
+# data directory — SQLite database is stored here
+# .gitkeep ensures this directory is tracked by Git
+
